@@ -8,8 +8,8 @@ title: Jungwoo Lee's CV
 Robot Software System & AI Developer
 
 <div id="webaddress">
-<!-- <a href="mailto:your@email.com">your@email.com</a> | -->
-<a href="https://www.linkedin.com/in/ritalyczywek/">LinkedIn</a>
+<!-- <a href="mailto:ricow4439@email.com">ricow4439@email.com</a> | -->
+<a href="https://www.linkedin.com/in/정우-이-486838395">LinkedIn</a>
 </div>
 
 

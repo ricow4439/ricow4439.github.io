@@ -36,7 +36,7 @@ jQuery, NodeJS, MongoDB, Django
 ## Experience
 
 `03.2018 - 06.2018`
-__Tentacles Company__, Web developer Intern
+__[Tentacles Company](https://www.tentacles-example.com)__, Web developer Intern
 
 - Develop web application for Octopoda departments
 - Implement UI (front-end site) based on received graphic design and requirements

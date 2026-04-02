@@ -2,7 +2,7 @@
 layout: cv
 title: Jungwoo Lee's CV
 ---
-<img src="./img/avatar.jpg" alt="Profile" width="150" style="border-radius: 50%; display: block; margin-bottom: 20px;" />
+<img src="./img/ljw.jpg" alt="Profile" width="150" style="border-radius: 50%; display: block; margin-bottom: 20px;" />
 
 # Jungwoo Lee
 Robot Software System & AI Developer

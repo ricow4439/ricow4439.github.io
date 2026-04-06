@@ -4,7 +4,7 @@ title: Jungwoo Lee's CV
 ---
 <img src="./img/ljw.jpg" alt="Profile" width="150" style="border-radius: 50%; display: block; margin-bottom: 20px;" />
 
-### Jungwoo Lee (이정우)
+### __Jungwoo Lee (이정우)__
 
 Robot Software System Integration & AI Developer
 
@@ -41,14 +41,13 @@ __[한국로봇융합연구원(Korea Institute of Robotics and Technology Conver
 __한국과학기술연구원 영상미디어연구센터(IMRC)__, 위촉연구원 (로봇 미들웨어 개발)
 
 `2003.12 - 2004.06`
-__[삼성종합기술원 HCI Lab]__, 위촉연구원 (하드웨어 개발)
+__삼성종합기술원 HCI Lab__, 위촉연구원 (하드웨어 개발)
 
 
 ## <u>Education</u>
 
 `2020-2024`
 __부경대학교 기계시스템공학 박사__  : "A Study on ROV Attitude Control and Marine Glider Detection for Glider Recovery Using a Deep Learning Model" (Ph.D. Dissertation)
-
 
 `2013-2015`
 __한국과학기술원 소프트웨어공학 석사__

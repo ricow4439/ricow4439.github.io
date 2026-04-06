@@ -4,34 +4,29 @@ title: Jungwoo Lee's CV
 ---
 <img src="./img/ljw.jpg" alt="Profile" width="150" style="border-radius: 50%; display: block; margin-bottom: 20px;" />
 
-# Jungwoo Lee
-Robot Software System & AI Developer
+# Jungwoo Lee (이정우)
+Robot Software System Integration & AI Developer
 
 <div id="webaddress">
-<!-- <a href="mailto:ricow4439@email.com">ricow4439@email.com</a> | -->
+<!-- <a href="mailto:ricow4439@gmail.com">ricow4439@gmail.com</a> | -->
 <a href="https://www.linkedin.com/in/정우-이-486838395">LinkedIn</a>
 </div>
 
 
 ## Profile
 
-Hello! I am Jungwoo Lee. I develop software system integration and AI models for a variety of robots. My interests include AI technologies for robot action planning and environment recognition.
+안녕하세요! 저는 Software system integration과 로봇의 인지 등 다양한 분야에 대한 AI 모델을 만들고 있습니다. 
 
 ## Skills
 
 ### Good knowledge
-HTML5, CSS, JavaScript ES5/6, SQL
+- Tensorflow, Torch, ROS
 
 ### Basic knowledge
-jQuery, NodeJS, MongoDB, Django
+- Hardware (ST MCU, TI DSP), PLC (LSIS), OrCAD (Circuit Design)
 
 ### Languages
-- 🇵🇱 Polish - Native speaker
-- 🇬🇧 English - Proficient C1/C2
-- 🇫🇷 French - Advanced - C1
-- 🇪🇸 Spanish - Intermediate - B1/B2
-- 🇩🇪 German - Elementary / Communicative - A2
-
+- Python, C++, C#, Perl, Assembly(for debugging)
 
 ## Experience
 

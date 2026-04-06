@@ -33,7 +33,7 @@ Robot Software System Integration & AI Developer
 
 ## <u>Experience</u>
 
-`2007.11 - 현재`
+$\Large `2007.11 - 현재`$
 __[한국로봇융합연구원(Korea Institute of Robotics and Technology Convergence)](https://www.kiro.re.kr)__, 책임연구원 (SI, AI Model Development)
 
 `2004.11 - 2007.09`

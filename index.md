@@ -38,7 +38,7 @@ Robot Software System Integration & AI Developer
 __[한국로봇융합연구원(Korea Institute of Robotics and Technology Convergence)](https://www.kiro.re.kr)__, 책임연구원 (SI, AI Model Development)
 
 `2004.11 - 2007.09`
-__[한국과학기술연구원 영상미디어연구센터(IMRC)]__, 위촉연구원 (로봇 미들웨어 개발)
+__한국과학기술연구원 영상미디어연구센터(IMRC)__, 위촉연구원 (로봇 미들웨어 개발)
 
 `2003.12 - 2004.06`
 __[삼성종합기술원 HCI Lab]__, 위촉연구원 (하드웨어 개발)

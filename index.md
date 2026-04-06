@@ -58,7 +58,14 @@ __한양대학교 전자통신컴퓨터공학 학사__
 ### 2026
 - #### BOP (Benchmark for 6D Object Pose Estimation) : 2025 ~ 진행 중
   - HOPE (NVIDIA Household Objects for Pose Estimation) Dataset에 대한 6D-Pose + Object Size + ID 추정을 위한 모델 개발 (Tensorflow & Torch, from scratch)
-  - 
+  - Transformer 기반 MoE (layer 별 가변 experts) 설계 적용
+
+- #### VLA Training : 2026 ~ 진행 중
+  - DROID Dataset을 증강(Depth 생성과 context 추가)하여 VLM(Gemma or Qwen) 모델에 대한 PEFT + Custom Head 로 학습 진행 중 (Torch)
+ 
+- #### Local Model Fine-tunning : 2026 ~ 진행 중
+  - 여러 Local Model의 추론 실행 속도 향상과 특정 도메인에 대한 최적화를 목표로 함
+  - Model에 대한 Multi-Modal Encoder Hub, Backbone layers에 대한 동적 라우팅, PEFT (FFN or MoE), Custom Head 에 대한 시험 진행 
 
 ### 2025
 - #### Dishware Pose Estimation : 2024 ~ 2025
@@ -74,7 +81,7 @@ __한양대학교 전자통신컴퓨터공학 학사__
 
 ### 2022
 - #### a
-  - a
+  - [![설명문구](GIF_파일_주소)](이동할_링크_주소)
     
 
 <!-- ### Footer

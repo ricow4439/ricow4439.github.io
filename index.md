@@ -33,7 +33,7 @@ Robot Software System Integration & AI Developer
 
 ## <u>Experience</u>
 
-<h2>`2007.11 - 현재`</h2>
+`2007.11 - 현재`
 __[한국로봇융합연구원(Korea Institute of Robotics and Technology Convergence)](https://www.kiro.re.kr)__, 책임연구원 (SI, AI Model Development)
 
 `2004.11 - 2007.09`
@@ -55,12 +55,12 @@ __한양대학교 전자통신컴퓨터공학 학사__
 
 ## <u>Projects</u>
 
-`2026`
+<h2>2026</h2>
 - #### BOP (Benchmark for 6D Object Pose Estimation) : 2025 ~ 진행 중
   - HOPE (NVIDIA Household Objects for Pose Estimation) Dataset에 대한 6D-Pose + Object Size + ID 추정을 위한 모델 개발 (Tensorflow & Torch, from scratch)
   - 
 
-`2025`
+<h2>2025</h2>
 - #### Dishware Pose Estimation : 2024 ~ 2025
   - 식당에서 식기 수거를 위한 로봇의 식기 인식을 위한 자세 추정 모델 개발 (Tensorflow, from scratch)
 

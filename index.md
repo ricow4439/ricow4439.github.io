@@ -55,24 +55,24 @@ __한양대학교 전자통신컴퓨터공학 학사__
 
 ## <u>Projects</u>
 
-<h2>2026</h2>
+### 2026
 - #### BOP (Benchmark for 6D Object Pose Estimation) : 2025 ~ 진행 중
   - HOPE (NVIDIA Household Objects for Pose Estimation) Dataset에 대한 6D-Pose + Object Size + ID 추정을 위한 모델 개발 (Tensorflow & Torch, from scratch)
   - 
 
-<h2>2025</h2>
+### 2025
 - #### Dishware Pose Estimation : 2024 ~ 2025
   - 식당에서 식기 수거를 위한 로봇의 식기 인식을 위한 자세 추정 모델 개발 (Tensorflow, from scratch)
 
-`2024`
+### 2024
 - #### a
   - a
 
-`2023`
+### 2023
 - #### a
   - a
 
-`2022`
+### 2022
 - #### a
   - a
     

@@ -33,7 +33,7 @@ Robot Software System Integration & AI Developer
 
 ## <u>Experience</u>
 
-$\large `2007.11 - 현재`$
+`2007.11 - 현재`
 __[한국로봇융합연구원(Korea Institute of Robotics and Technology Convergence)](https://www.kiro.re.kr)__, 책임연구원 (SI, AI Model Development)
 
 `2004.11 - 2007.09`
@@ -50,7 +50,7 @@ __부경대학교 기계시스템공학 박사__  : "A Study on ROV Attitude Con
 `2013-2015`
 __한국과학기술원 소프트웨어공학 석사__
 
-<span style="font-size: 1.5em;">`1999-2005`</span>
+`1999-2005`
 __한양대학교 전자통신컴퓨터공학 학사__
 
 ## <u>Projects</u>

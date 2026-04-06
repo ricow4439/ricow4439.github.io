@@ -28,7 +28,7 @@ Robot Software System Integration & AI Developer
 #### Languages
 - Python, C++, C#, Perl, Assembly (for debugging)
 
-## AI
+#### AI
 - Claude, Codex, Gemini, Local LLM (MiniMax, Qwen3.5, GPT-OSS) for Coding Agent 
 
 ## <u>Experience</u>
@@ -56,13 +56,13 @@ __한양대학교 전자통신컴퓨터공학 학사__
 ## <u>Projects</u>
 
 `2026`
-#### BOP (Benchmark for 6D Object Pose Estimation) : 2025 ~ 진행 중
-- HOPE(NVIDIA Household Objects for Pose Estimation) Dataset에 대한 6D-Pose + Object Size + ID 추정을 위한 모델 개발 (Tensorflow & Torch, from scratch)
-- 
+- #### BOP (Benchmark for 6D Object Pose Estimation) : 2025 ~ 진행 중
+  - HOPE(NVIDIA Household Objects for Pose Estimation) Dataset에 대한 6D-Pose + Object Size + ID 추정을 위한 모델 개발 (Tensorflow & Torch, from scratch)
+  - 
 
 `2025`
-#### Dishware Pose Estimation : 2024 ~ 2025
-- 식당에서 식기 수거를 위한 로봇의 식기 인식을 위한 자세 추정 모델 개발 (Tensorflow, from scratch)
+- #### Dishware Pose Estimation : 2024 ~ 2025
+  - 식당에서 식기 수거를 위한 로봇의 식기 인식을 위한 자세 추정 모델 개발 (Tensorflow, from scratch)
 
 
 

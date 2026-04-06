@@ -42,7 +42,8 @@ __[삼성종합기술원 HCI Lab]__, 위촉연구원 (하드웨어 개발)
 ## Education
 
 `2020-2024`
-__부경대학교 기계시스템공학 박사__
+__부경대학교 기계시스템공학 박사__  : "A Study on ROV Attitude Control and Marine Glider Detection for Glider Recovery Using a Deep Learning Model" (Ph.D. Dissertation)
+
 
 `2013-2015`
 __한국과학기술원 소프트웨어공학 석사__

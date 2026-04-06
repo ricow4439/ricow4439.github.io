@@ -4,7 +4,7 @@ title: Jungwoo Lee's CV
 ---
 <img src="./img/ljw.jpg" alt="Profile" width="150" style="border-radius: 50%; display: block; margin-bottom: 20px;" />
 
-### __Jungwoo Lee (이정우)__
+## __Jungwoo Lee (이정우)__
 
 Robot Software System Integration & AI Developer
 
@@ -15,20 +15,20 @@ Robot Software System Integration & AI Developer
 
 
 
-### <b><u>Profile</u></b>
+## <b><u>Profile</u></b>
 
 안녕하세요! 저는 Software system integration과 로봇의 인지 등 다양한 분야에 대한 AI 모델을 만들고 있습니다. 
 
 
-### <u>Skills</u>
+## <u>Skills</u>
 
-## Good knowledge
+#### Good knowledge
 - Tensorflow, Torch, ROS
 
-## Basic knowledge
+#### Basic knowledge
 - Hardware (ST MCU, TI DSP), PLC (LSIS), OrCAD (Circuit Design)
 
-## Languages
+#### Languages
 - Python, C++, C#, Perl, Assembly (for debugging)
 
 ## AI

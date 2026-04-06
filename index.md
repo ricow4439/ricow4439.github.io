@@ -33,24 +33,24 @@ Robot Software System Integration & AI Developer
 
 ## <u>Experience</u>
 
-###`2007.11 - 현재`
+`2007.11 - 현재`
 __[한국로봇융합연구원(Korea Institute of Robotics and Technology Convergence)](https://www.kiro.re.kr)__, 책임연구원 (SI, AI Model Development)
 
-###`2004.11 - 2007.09`
+`2004.11 - 2007.09`
 __한국과학기술연구원 영상미디어연구센터(IMRC)__, 위촉연구원 (로봇 미들웨어 개발)
 
-###`2003.12 - 2004.06`
+`2003.12 - 2004.06`
 __삼성종합기술원 HCI Lab__, 위촉연구원 (하드웨어 개발)
 
 ## <u>Education</u>
 
-###`2020-2024`
+`2020-2024`
 __부경대학교 기계시스템공학 박사__  : "A Study on ROV Attitude Control and Marine Glider Detection for Glider Recovery Using a Deep Learning Model" (Ph.D. Dissertation)
 
-###`2013-2015`
+`2013-2015`
 __한국과학기술원 소프트웨어공학 석사__
 
-###`1999-2005`
+$\`1999-2005`$
 __한양대학교 전자통신컴퓨터공학 학사__
 
 ## <u>Projects</u>

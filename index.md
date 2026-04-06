@@ -26,12 +26,19 @@ Robot Software System Integration & AI Developer
 - Hardware (ST MCU, TI DSP), PLC (LSIS), OrCAD (Circuit Design)
 
 ### Languages
-- Python, C++, C#, Perl, Assembly(for debugging)
+- Python, C++, C#, Perl, Assembly (for debugging)
 
 ## Experience
 
-`03.2018 - 06.2018`
-__[Tentacles Company](https://www.tentacles-example.com)__, Web developer Intern
+`2007.11 - 현재`
+__[한국로봇융합연구원(Korea Institute of Robotics and Convergence)](https://www.kiro.re.kr)__, 책임연구원
+
+`2004.11 - 2007.09`
+__[한국과학기술연구원 영상미디어연구센터(IMRC)]__, 위촉연구원
+
+`2003.12 - 2004.06`
+__[삼성종합기술원 HCI Lab]__, 위촉연구원
+
 
 - Develop web application for Octopoda departments
 - Implement UI (front-end site) based on received graphic design and requirements

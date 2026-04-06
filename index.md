@@ -25,15 +25,12 @@ Robot Software System Integration & AI Developer
 ---
 
 ### Good knowledge
----
 - Tensorflow, Torch, ROS
 
 ### Basic knowledge
----
 - Hardware (ST MCU, TI DSP), PLC (LSIS), OrCAD (Circuit Design)
 
 ### Languages
----
 - Python, C++, C#, Perl, Assembly (for debugging)
 
 

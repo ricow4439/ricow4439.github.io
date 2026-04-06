@@ -31,32 +31,24 @@ Robot Software System Integration & AI Developer
 ## Experience
 
 `2007.11 - 현재`
-__[한국로봇융합연구원(Korea Institute of Robotics and Convergence)](https://www.kiro.re.kr)__, 책임연구원
+__[한국로봇융합연구원(Korea Institute of Robotics and Technology Convergence)](https://www.kiro.re.kr)__, 책임연구원
 
 `2004.11 - 2007.09`
-__[한국과학기술연구원 영상미디어연구센터(IMRC)]__, 위촉연구원
+__[한국과학기술연구원 영상미디어연구센터(IMRC)]__, 위촉연구원 (로봇 미들웨어 개발)
 
 `2003.12 - 2004.06`
-__[삼성종합기술원 HCI Lab]__, 위촉연구원
-
-
-- Develop web application for Octopoda departments
-- Implement UI (front-end site) based on received graphic design and requirements
-- Co-operate with the back-end team 
-
+__[삼성종합기술원 HCI Lab]__, 위촉연구원 (하드웨어 개발)
 
 ## Education
 
-`2015-2018`
-__Octocats tech academy__
+`2020-2024`
+__부경대학교 기계시스템공학 박사__
 
-- Bachelor Degree of Octorobotics
+`2013-2015`
+__한국과학기술원 소프트웨어공학 석사__
 
-`2012-2015`
-__Underwater kittens high school__
-
-- Main subject: Mathematics
-
+`1999-2005`
+__한양대학교 전자통신컴퓨터공학 학사__
 
 ## Projects
 

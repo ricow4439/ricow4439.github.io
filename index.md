@@ -58,7 +58,8 @@ __한양대학교 전자통신컴퓨터공학 학사__
 ### 2026
 - #### BOP (Benchmark for 6D Object Pose Estimation) : 2025 ~ 진행 중
   - HOPE (NVIDIA Household Objects for Pose Estimation) Dataset에 대한 6D-Pose + Object Size + ID 추정을 위한 모델 개발 (Tensorflow & Torch, from scratch)
-  - Decoder-only Transformer (MoE는 layer 별 가변 experts) 설계 적용
+  - Encoder-only Transformer (MoE는 layer 별 가변 experts) 설계 적용
+  - 모델 입력은 카메라의 Depth -> Point Clouds, 모델 출력은 객체의 6D-Pose + Object Size + ID
 
 - #### VLA Training : 2026 ~ 진행 중
   - DROID Dataset을 증강(Depth 생성과 context 추가)하여, VLM(Gemma or Qwen) 모델에 대한 PEFT + Custom Head 로 학습 진행 중 (Torch)
@@ -70,7 +71,8 @@ __한양대학교 전자통신컴퓨터공학 학사__
 ### 2025
 - #### Dishware Pose Estimation : 2024 ~ 2025
   - 식당에서 식기 수거를 위한 로봇의 식기 인식을 위한 자세 추정 모델 개발 (Tensorflow, from scratch)
-  - Decoder-only Transformer (Custom Attention, MoE) 설계 적용 
+  - Encoder-only Transformer (Custom Attention, MoE) 설계 적용
+  - 모델 입력은 카메라의 Color 및 Depth image, 모델 출력은 식기의 6D-Pose + Size + ID
 
 ### 2024
 - #### a

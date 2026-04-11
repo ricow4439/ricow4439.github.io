@@ -91,16 +91,9 @@ Vision Encoder and a Variable Mixture-of-Experts Transformer"](https://www.mdpi.
   - Transformer Model 내부의 Attention 구조 변형과 GQA, RMS Norm의 적용 등에 대한 Ablation study 비교하고, GPU 메모리 사용량을 baseline model 대비 2.5%로 감소
   -  __["A Study on Systematic Improvement of Transformer Models for Object Pose Estimation"](https://www.mdpi.com/1424-8220/25/4/1227)__
 
-### 2024
-- #### a
-  - a
-
-### 2023
-- #### a
-  - a
-
-### 2022
-- #### a
+### ~ 2024
+- #### Title
+  - Description  
   - [![설명문구](GIF_파일_주소)](이동할_링크_주소)
     
 

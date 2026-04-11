@@ -15,7 +15,7 @@ Robot Software System Integration & AI Developer
 
 ## <b><u>Profile</u></b>
 
-안녕하세요! 저는 Software system integration과 로봇의 인지 등 다양한 분야에 대한 AI 모델을 만들고 있습니다. 
+안녕하세요! 저는 Software system integration, 로봇의 인지와 행동 추론 등 다양한 분야에 대한 AI 모델을 만들고 있습니다. 
 
 ## <u>Skills</u>
 
@@ -61,12 +61,22 @@ __한양대학교 전자통신컴퓨터공학 학사__
   - Encoder-only Transformer (MoE는 layer 별 가변 experts) 설계 적용
   - 모델 입력은 카메라의 Depth -> Point Clouds, 모델 출력은 객체의 6D-Pose + Object Size + ID
 
+- #### Underwater Glider Detection을 위한 3D 위치 추정 : 2025 ~ 2026
+  - ROV 탑재된 Camera의 Color Image에서 수중 글라이더의 위치를 추정하는 모델 개선 (Tensorflow, from scratch)
+  - Vision Encoder는 Hierarchical Convolutional Neural Network을 설계하고, 가변 MoE 구현 적용
+  - __["A Study of the Three-Dimensional Localization of an Underwater
+Glider Hull Using a Hierarchical Convolutional Neural Network
+Vision Encoder and a Variable Mixture-of-Experts Transformer"](https://www.mdpi.com/2072-4292/18/5/793)__
+
 - #### VLA Training : 2026 ~ 진행 중
-  - DROID Dataset을 증강(Depth 생성과 context 추가)하여, VLM(Gemma or Qwen) 모델에 대한 PEFT + Custom Head 로 학습 진행 중 (Torch)
+  - DROID Dataset을 증강(Depth 생성과 context 추가)하여, VLM(Gemma or Qwen) 모델에 대한 PEFT + Custom Head 로 학습 진행 (Torch)
  
 - #### Local Model Fine-tunning : 2026 ~ 진행 중
   - 여러 Local Model의 추론 실행 속도 향상과 특정 도메인이 주어졌을 때의 최적화를 목표로 함
   - Model에 대한 Multi-Modal Encoder Hub, Backbone layers에 대한 동적 라우팅과 PEFT (FFN or MoE), Custom Head 에 대한 시험 진행 
+
+- #### Embedded-AI 를 위한 자원 제한된 하드웨어 적응형 동적 신경망 설계 연구 : 2026 ~ 진행 중
+  - YOLO26 Detector 기반 Dynamic Neural Network (Early Exit, Adaptive Routing) 적용 연구 진행 
 
 ### 2025
 - #### Dishware Pose Estimation : 2024 ~ 2025

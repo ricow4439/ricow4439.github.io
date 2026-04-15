@@ -109,7 +109,8 @@ Vision Encoder and a Variable Mixture-of-Experts Transformer"](https://www.mdpi.
 
 - #### 주차로봇 운용 서버 및 시뮬레이터 개발
   - 다수 주차로봇을 배치하여 운용하기 위한 로컬 서버 및 시뮬레이터 개발 (C#, Python)
-  <img src="./img/parking_robot_3Dsimulator.jpg" width="300"> <img src="./img/parking_robot_pathfollowing_algorithm.jpg" width="300">
+  <img src="./img/parking_robot_3Dsimulator.jpg" width="300">
+<img src="./img/parking_robot_pathfollowing_algorithm.jpg" width="300">
 
 - #### 
 

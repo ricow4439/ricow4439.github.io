@@ -113,7 +113,7 @@ Vision Encoder and a Variable Mixture-of-Experts Transformer"](https://www.mdpi.
 
 - #### 마찰교반 용접 장비 고장 예지 모델 개발
   - 용접장비의 모터 및 센서 데이터를 바탕으로, 인자 분석을 통한 Feature Engineering 후 RNN 기반 모델 개발 (Tensorflow, from scratch)
-  - <img src="./img/predictive_maintenance.jpg" width=400>
+  - <img src="./img/predictive_maintenance.jpg" width=500>
 
 
 <!-- ### Footer

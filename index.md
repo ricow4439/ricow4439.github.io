@@ -86,7 +86,7 @@ Vision Encoder and a Variable Mixture-of-Experts Transformer"](https://www.mdpi.
   - 모델 입력은 카메라의 Color 및 Depth image, 모델 출력은 식기의 6D-Pose + Size + ID로 구성
   - 약 600mm 거리에서 5° 5㎜ 이내 오차로 식기 자세 추정
   - __["Model-Free Transformer Framework for 6-DoF Pose Estimation of Textureless Tableware Objects"](https://www.mdpi.com/1424-8220/25/19/6167)__
-  - <img src="./img/dishpose_each_4x.jpg" width="400">  <img src="./img/dishpose_many_4x.jpg" width="400"> 
+  <img src="./img/dishpose_each_4x.jpg" width="400">  <img src="./img/dishpose_many_4x.jpg" width="400"> 
 
 - #### 객체 포즈 추정을 위한 Transformer Model 개선 : 2025
   - 객체의 Point-Cloud로부터 포즈 추정을 위한 Encoder-only Transformer Model에 대한 성능 개선 목표
@@ -96,12 +96,14 @@ Vision Encoder and a Variable Mixture-of-Experts Transformer"](https://www.mdpi.
 ### ~ 2024
 - #### 수중글라이더 탐지 모델 개발
   - 수중글라이더 회수 플랫폼(ROV)에서 회수고리 탐지, 글라이더 탐지, ROV 자세유지 모델 개발 (Tensorflow, from scratch)
-  - <img src="./img/underwater_glider_2.jpg" width="300"> <img src="./img/underwater_glider_3.jpg" width="300"> <img src="./img/underwater_glider_4.jpg" width="300">
+  <img src="./img/underwater_glider_2.jpg" width="300"> <img src="./img/underwater_glider_3.jpg" width="300"> <img src="./img/underwater_glider_4.jpg" width="300">
 
 - #### 멀티모달 센서에 의한 실내 위치 추정 모델 개발
   - 멀티모달 센서(Color, IR, Depth image & LiDAR) 데이터 기반의 실내 위치추정 모델 개발 (MobileNet Transfer Learning)
-  - <img src="./img/indoor_multimodal_position_prediction.jpg" width=400 style="display: block; margin: 0 auto;">
-
+  <div style="text-align: center;">
+    <img src="./img/indoor_multimodal_position_prediction.jpg" width=400 style="display: block; margin: 0 auto;">
+  </div>
+  
 - #### 천장 영상 기반 실내 위치 추정 모델 개발
   - 단안 그레이스케일의 천장 영상으로부터 실내 위치를 추정하는 모델 개발 (Tensorflow, from scratch)
   - Intel ReanSense T265 카메라의 Left grayscale image에 대해 Custom Vision Encoder + Head 로 모델 구성

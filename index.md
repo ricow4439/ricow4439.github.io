@@ -100,9 +100,7 @@ Vision Encoder and a Variable Mixture-of-Experts Transformer"](https://www.mdpi.
 
 - #### 멀티모달 센서에 의한 실내 위치 추정 모델 개발
   - 멀티모달 센서(Color, IR, Depth image & LiDAR) 데이터 기반의 실내 위치추정 모델 개발 (MobileNet Transfer Learning)
-  <div style="text-align: center;">
-    <img src="./img/indoor_multimodal_position_prediction.jpg" width="400">
-  </div>
+  <img src="./img/indoor_multimodal_position_prediction.jpg" width="400" style="display: block; margin: auto;">
   
 - #### 천장 영상 기반 실내 위치 추정 모델 개발
   - 단안 그레이스케일의 천장 영상으로부터 실내 위치를 추정하는 모델 개발 (Tensorflow, from scratch)

@@ -85,7 +85,7 @@ Vision Encoder and a Variable Mixture-of-Experts Transformer"](https://www.mdpi.
   - Encoder-only Transformer (Custom Attention, MoE) 설계 적용
   - 모델 입력은 카메라의 Color 및 Depth image, 모델 출력은 식기의 6D-Pose + Size + ID로 구성
   - __["Model-Free Transformer Framework for 6-DoF Pose Estimation of Textureless Tableware Objects"](https://www.mdpi.com/1424-8220/25/19/6167)__
-  - [![개별 식기 포즈 인식 결과](./img/dishpose_each_4x.jpg)](./img/dishpose_each_4x_convert.mp4)
+  - [![개별 식기 포즈 인식 결과](./img/dishpose_each_4x.jpg)](./img/dishpose_each_4x_convert.mp4) | [![전체 식기 포즈 인식 결과](./img/dishpose_many_4x.jpg)](./img/dishpose_many_4x_convert.mp4)
 <details>
   <summary>🔍 클릭하여 영상 보기</summary>
   <br>

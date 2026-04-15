@@ -100,7 +100,7 @@ Vision Encoder and a Variable Mixture-of-Experts Transformer"](https://www.mdpi.
 
 - #### 멀티모달 센서에 의한 실내 위치 추정 모델 개발
   - 멀티모달 센서(Color, IR, Depth image & LiDAR) 데이터 기반의 실내 위치추정 모델 개발 (MobileNet Transfer Learning)
-  <img src="./img/indoor_multimodal_position_prediction.jpg" width="400" style="display: block; margin: auto;">
+  <img src="./img/indoor_multimodal_position_prediction.jpg" width="400">
   
 - #### 천장 영상 기반 실내 위치 추정 모델 개발
   - 단안 그레이스케일의 천장 영상으로부터 실내 위치를 추정하는 모델 개발 (Tensorflow, from scratch)
@@ -111,10 +111,9 @@ Vision Encoder and a Variable Mixture-of-Experts Transformer"](https://www.mdpi.
   - 다수 주차로봇을 배치하여 운용하기 위한 로컬 서버 및 시뮬레이터 개발 (C#, Python)
   <img src="./img/parking_robot_3Dsimulator.jpg" width=400> <img src="./img/parking_robot_pathfollowing_algorithm.jpg" width=400>
 
-- #### 마찰교반 용접 장비 고장 예지 모델
+- #### 마찰교반 용접 장비 고장 예지 모델 개발
   - 용접장비의 모터 및 센서 데이터를 바탕으로, 인자 분석을 통한 Feature Engineering 후 RNN 기반 모델 개발 (Tensorflow, from scratch)
   <img src="./img/predictive_maintenance.jpg" width=400>
-
 
 
 <!-- ### Footer

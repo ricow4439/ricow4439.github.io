@@ -109,11 +109,11 @@ Vision Encoder and a Variable Mixture-of-Experts Transformer"](https://www.mdpi.
 
 - #### 주차로봇 운용 서버 및 시뮬레이터 개발
   - 다수 주차로봇을 배치하여 운용하기 위한 로컬 서버 및 시뮬레이터 개발 (C#, Python)
-  <img src="./img/parking_robot_3Dsimulator.jpg" width="300">
-<img src="./img/parking_robot_pathfollowing_algorithm.jpg" width="300">
+  <img src="./img/parking_robot_3Dsimulator.jpg" width=400> <img src="./img/parking_robot_pathfollowing_algorithm.jpg" width=400>
 
-- #### 
-
+- #### 마찰교반 용접 장비 고장 예지 모델
+  - 용접장비의 모터 및 센서 데이터를 바탕으로, 인자 분석을 통한 Feature Engineering 후 RNN 기반 모델 개발 (Tensorflow, from scratch)
+  <img src="./img/predictive_maintenance.jpg" width=400>
 
 
 

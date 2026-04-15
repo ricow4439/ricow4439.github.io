@@ -105,12 +105,13 @@ Vision Encoder and a Variable Mixture-of-Experts Transformer"](https://www.mdpi.
 - #### 천장 영상 기반 실내 위치 추정 모델 개발
   - 단안 그레이스케일의 천장 영상으로부터 실내 위치를 추정하는 모델 개발 (Tensorflow, from scratch)
   - Intel ReanSense T265 카메라의 Left grayscale image에 대해 Custom Vision Encoder + Head 로 모델 구성
-  - <img src="./img/t265_indoor_position_prediction.jpg" width=300> <img src="./img/t265_position_prediction_sequence.jpg" width=300> <img src="./img/t265_position_prediction_random.jpg" width=300>
+  <img src="./img/t265_indoor_position_prediction.jpg" width=300> <img src="./img/t265_position_prediction_sequence.jpg" width=300> <img src="./img/t265_position_prediction_random.jpg" width=300>
 
 - #### 주차로봇 운용 서버 및 시뮬레이터 개발
   - 다수 주차로봇을 배치하여 운용하기 위한 로컬 서버 및 시뮬레이터 개발 (C#, Python)
   <img src="./img/parking_robot_3Dsimulator.jpg" width="300"> <img src="./img/parking_robot_pathfollowing_algorithm.jpg" width="300">
-  
+
+- #### 
 
 
 

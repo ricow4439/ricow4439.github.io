@@ -89,7 +89,7 @@ Vision Encoder and a Variable Mixture-of-Experts Transformer"](https://www.mdpi.
 <details>
   <summary>🔍 클릭하여 영상 보기</summary>
   <br>
-  <video src="./img/dishpose_each_4x_convert.mp4" controls width="100%"></video>
+  <video src="./img/dishpose_each_4x_convert.mp4" controls width="50%"></video>
 </details>
 
 - #### 객체 포즈 추정을 위한 Transformer Model 개선 : 2025

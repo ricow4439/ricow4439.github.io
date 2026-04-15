@@ -61,7 +61,7 @@ __한양대학교 전자통신컴퓨터공학 학사__
   - Encoder-only Transformer (MoE는 layer 별 가변 experts) 설계 적용
   - 모델 입력은 카메라의 Depth -> Point Clouds, 모델 출력은 객체의 6D-Pose + Object Size + ID
 
-- #### Underwater Glider Detection을 위한 3D 위치 추정 : 2025 ~ 2026
+- #### 수중 글라이더 탐지를 위한 3D 위치 추정 : 2025 ~ 2026
   - ROV 탑재된 Camera의 Color Image에서 수중 글라이더의 위치를 추정하는 모델 개선 (Tensorflow, from scratch)
   - Vision Encoder는 Hierarchical Convolutional Neural Network을 설계하고, 가변 MoE 구현 적용
   - __["A Study of the Three-Dimensional Localization of an Underwater
@@ -94,10 +94,11 @@ Vision Encoder and a Variable Mixture-of-Experts Transformer"](https://www.mdpi.
   -  __["A Study on Systematic Improvement of Transformer Models for Object Pose Estimation"](https://www.mdpi.com/1424-8220/25/4/1227)__
 
 ### ~ 2024
-- #### Title
-  - Description  
-  - [![설명문구](GIF_파일_주소)](이동할_링크_주소)
-    
+- #### 수중글라이더 탐지 모델 개발
+  - 수중글라이더 회수 플랫폼(ROV)에서 회수고리 탐지, 글라이더 탐지, ROV 자세유지 모델 개발 (Tensorflow, from scratch)
+  - <img src="./img/underwater_glider_2.jpg" width="300"> <img src="./img/underwater_glider_3.jpg" width="300"> <img src="./img/underwater_glider_4.jpg" width="300">
+
+
 
 <!-- ### Footer
 

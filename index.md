@@ -77,7 +77,7 @@ Vision Encoder and a Variable Mixture-of-Experts Transformer"](https://www.mdpi.
 
 - #### Embedded-AI 를 위한 자원 제한된 하드웨어 적응형 동적 신경망 설계 연구 : 2026 ~ 진행 중
   - 하드웨어 자원 제한(전력, 처리능력)된 경우 모델 추론을 조절하는 동적 신경망 구현
-  - YOLO26 Detector 기반 Dynamic Neural Network (Early Exit, Adaptive Routing) 적용 연구 진행 
+  - YOLO26 Detector 기반 Dynamic Neural Network (Early Exit, Adaptive Routing) 적용 연구 진행 (5월 중 논문 제출 예정)
 
 ### 2025
 - #### Dishware Pose Estimation : 2025
@@ -97,6 +97,17 @@ Vision Encoder and a Variable Mixture-of-Experts Transformer"](https://www.mdpi.
 - #### 수중글라이더 탐지 모델 개발
   - 수중글라이더 회수 플랫폼(ROV)에서 회수고리 탐지, 글라이더 탐지, ROV 자세유지 모델 개발 (Tensorflow, from scratch)
   - <img src="./img/underwater_glider_2.jpg" width="300"> <img src="./img/underwater_glider_3.jpg" width="300"> <img src="./img/underwater_glider_4.jpg" width="300">
+
+- #### 멀티모달 센서에 의한 실내 위치 추정 모델 개발
+  - 멀티모달 센서(Color, IR, Depth image & LiDAR) 데이터 기반의 실내 위치추정 모델 개발 (MobileNet Transfer Learning)
+  - <img src="./img/indoor_multimodal_position_prediction.jpg" width=400>
+
+- #### 천장 영상 기반 실내 위치 추정 모델 개발
+  - 단안 그레이스케일의 천장 영상으로부터 실내 위치를 추정하는 모델 개발 (Tensorflow, from scratch)
+  - Intel ReanSense T265 카메라의 Left grayscale image에 대해 Custom Vision Encoder + Head 로 모델 구성
+  - <img src="./img/t265_indoor_position_prediction.jpg" width=300> <img src="./img/t265_position_prediction_sequence.jpg" width=300> <img src="./img/t265_position_prediction_random.jpg" width=300>
+
+
 
 
 

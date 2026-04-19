@@ -85,6 +85,7 @@ Vision Encoder and a Variable Mixture-of-Experts Transformer"](https://www.mdpi.
 - #### Dishware Pose Estimation : 2025
   - 식당에서 식기 수거를 위한 로봇의 식기 인식을 위한 자세 추정 모델 개발 (Tensorflow, from scratch)
   - Encoder-only Transformer (Custom Attention, MoE) 설계 적용
+  - Mamba-based Model 테스트 병행
   - 모델 입력은 카메라의 Color 및 Depth image, 모델 출력은 식기의 6D-Pose + Size + ID로 구성
   - 약 600mm 거리에서 5° 5㎜ 이내 오차로 식기 자세 추정
   - __["Model-Free Transformer Framework for 6-DoF Pose Estimation of Textureless Tableware Objects"](https://www.mdpi.com/1424-8220/25/19/6167)__

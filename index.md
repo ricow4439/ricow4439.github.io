@@ -31,7 +31,7 @@ Robot Software System Integration & AI Developer
 - Python, C++, C#, Perl, Assembly (for debugging)
 
 #### AI
-- Claude, Codex, Gemini, Local LLM (MiniMax, Qwen3.5, GPT-OSS) for Coding Agent 
+- Claude, Codex, Gemini, Local LLM (MiniMax, GLM, GPT-OSS) for Coding Agent 
 
 ## <u>Experience</u>
 

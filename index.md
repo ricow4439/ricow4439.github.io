@@ -82,7 +82,7 @@ Vision Encoder and a Variable Mixture-of-Experts Transformer"](https://www.mdpi.
   - YOLO26 Detector 기반 Dynamic Neural Network (Early Exit, Adaptive Routing) 적용 연구 진행 (5월 중 논문 제출 예정)
 
 ### 2025
-- #### Dishware Pose Estimation : 2025
+- #### Dishware Pose Estimation : 2024 ~ 2025
   - 식당에서 식기 수거를 위한 로봇의 식기 인식을 위한 자세 추정 모델 개발 (Tensorflow, from scratch)
   - Encoder-only Transformer (Custom Attention, MoE) 설계 적용
   - Mamba-based Model 테스트 병행

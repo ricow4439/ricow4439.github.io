@@ -21,8 +21,10 @@ Robot Software System Integration & AI Developer
 
 #### Good knowledge
 - Tensorflow, Torch, ROS
+- From scratch Model 구현으로 여러 도메인 데이터(Image, Time-series, Text) 처리
 
 #### Basic knowledge
+- Open Weights Model에 대한 PEFT/SFT로 Fine-tuning
 - Hardware (ST MCU, TI DSP), PLC (LSIS), OrCAD (Circuit Design)
 
 #### Languages

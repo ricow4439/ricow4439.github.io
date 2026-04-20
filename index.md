@@ -61,6 +61,7 @@ __한양대학교 전자통신컴퓨터공학 학사__
 - #### BOP (Benchmark for 6D Object Pose Estimation) : 2025 ~ 진행 중
   - HOPE (NVIDIA Household Objects for Pose Estimation) Dataset에 대한 6D-Pose + Object Size + ID 추정을 위한 모델 개발 (Tensorflow & Torch, from scratch)
   - Encoder-only Transformer (MoE는 layer 별 가변 experts) 설계 적용
+  - Mamba-based Model 테스트 병행
   - 모델 입력은 카메라의 Depth -> Point Clouds, 모델 출력은 객체의 6D-Pose + Object Size + ID
 
 - #### 수중 글라이더 탐지를 위한 3D 위치 추정 : 2025 ~ 2026
@@ -85,7 +86,6 @@ Vision Encoder and a Variable Mixture-of-Experts Transformer"](https://www.mdpi.
 - #### Dishware Pose Estimation : 2024 ~ 2025
   - 식당에서 식기 수거를 위한 로봇의 식기 인식을 위한 자세 추정 모델 개발 (Tensorflow, from scratch)
   - Encoder-only Transformer (Custom Attention, MoE) 설계 적용
-  - Mamba-based Model 테스트 병행
   - 모델 입력은 카메라의 Color 및 Depth image, 모델 출력은 식기의 6D-Pose + Size + ID로 구성
   - 추론은 NUC15(Intel Ultra7)에서 Intel Graphics 가속으로 ONNX 실행하며, 정확도에 따라 약 8 FPS(낮은 정확도), 5 FPS(중상 정확도), 2 FPS(높은 정확도)의 프로파일을 가짐
   - 약 600mm 거리에서 5° 5㎜ 이내 오차로 식기 자세 추정

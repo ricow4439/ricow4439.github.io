@@ -87,6 +87,7 @@ Vision Encoder and a Variable Mixture-of-Experts Transformer"](https://www.mdpi.
   - Encoder-only Transformer (Custom Attention, MoE) 설계 적용
   - Mamba-based Model 테스트 병행
   - 모델 입력은 카메라의 Color 및 Depth image, 모델 출력은 식기의 6D-Pose + Size + ID로 구성
+  - 추론은 NUC15(Intel Ultra7)에서 Intel Graphics 가속으로 ONNX 실행하며, 정확도에 따라 약 8 FPS(낮은 정확도), 5 FPS(중상 정확도), 2 FPS(높은 정확도)의 프로파일을 가짐
   - 약 600mm 거리에서 5° 5㎜ 이내 오차로 식기 자세 추정
   - __["Model-Free Transformer Framework for 6-DoF Pose Estimation of Textureless Tableware Objects"](https://www.mdpi.com/1424-8220/25/19/6167)__ (2024년 결과)
   - <img src="./img/dishpose_each_4x.jpg" width="400">  <img src="./img/dishpose_many_4x.jpg" width="400"> 

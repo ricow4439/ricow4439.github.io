@@ -15,7 +15,7 @@ Robot Software System Integration & AI Developer
 
 ## <b><u>Profile</u></b>
 
-안녕하세요! 저는 Software system integration, 로봇의 인지와 행동 추론 등 다양한 분야에 대한 AI 모델을 만들고 있습니다. 
+안녕하세요! 저는 소프트웨어 시스템 통합과, 로봇 인지와 행동 추론 등 다양한 분야에 대한 AI 모델을 만들고 있습니다. 
 
 ## <u>Skills</u>
 

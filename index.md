@@ -81,7 +81,8 @@ Vision Encoder and a Variable Mixture-of-Experts Transformer"](https://www.mdpi.
 - #### Embedded-AI/Edge-AI 를 위한 자원 제한된 하드웨어 적응형 동적 신경망 설계 연구 : 2026 ~ 진행 중
   - 하드웨어 자원 제한(전력, 처리능력)된 경우 모델 추론을 조절하는 동적 신경망 구현
   - YOLO26 Detector 기반 Dynamic Neural Network (Early Exit, Adaptive Routing) 적용 연구 진행 (5월 중 논문 제출 예정)
-  - 경량 LLM(Nenotron, Gemma4)에 대한 적용 구현 진행 중
+  - 경량 LLM(Nenotron, Gemma4)에 대한 적용 구현도 진행 중
+  - <img src="./img/yolo26s_early_exit_only.png" width="300"> <img src="./img/yolo26s_router_only.png" width="300"> 
 
 - #### Embedded-AI/Edge-AI 를 위한 모델 경량화 설계 연구 : 2026 ~ 진행 중
   - 모델 추론 능력을 최대한 유지하면서 레이어 단위로 경량화하여 추론 시간을 단축하는 설계 구현

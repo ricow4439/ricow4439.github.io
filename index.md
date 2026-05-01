@@ -70,6 +70,7 @@ __한양대학교 전자통신컴퓨터공학 학사__
   - __["A Study of the Three-Dimensional Localization of an Underwater
 Glider Hull Using a Hierarchical Convolutional Neural Network
 Vision Encoder and a Variable Mixture-of-Experts Transformer"](https://www.mdpi.com/2072-4292/18/5/793)__
+  - <img src="./img/glider_hull_detection_GA.png" width="300"> <img src="./img/glider_hull_detection_vision_encoder.png" width="300"> <img src="./img/glider_hull_detection_vMOE Transformer.jpg" width="300">
 
 - #### VLA Training : 2026 ~ 진행 중
   - DROID Dataset을 증강(Depth 생성과 context 추가)하여, VLM(Gemma or Qwen) 모델에 대한 PEFT + Custom Head 로 학습 진행 (Torch)

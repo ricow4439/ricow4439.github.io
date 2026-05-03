@@ -75,7 +75,7 @@ Vision Encoder and a Variable Mixture-of-Experts Transformer"](https://www.mdpi.
 - #### VLA Training : 2026 ~ 진행 중
   - DROID Dataset을 증강(Depth 생성과 context 추가)하여, VLM(Gemma or Qwen) 모델에 대한 PEFT + Custom Head 로 학습 진행 (Torch)
  
-- #### Local Model Fine-tunning : 2026 ~ 진행 중
+- #### Local Model Fine-tuning : 2026 ~ 진행 중
   - 여러 Local Model의 추론 실행 속도 향상과 특정 도메인이 주어졌을 때의 최적화를 목표로 함
   - Model에 대한 Multi-Modal Encoder Hub, Backbone layers에 대한 동적 라우팅과 PEFT (FFN or MoE), Custom Head 에 대한 시험 진행 
 

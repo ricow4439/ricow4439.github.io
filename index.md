@@ -70,7 +70,7 @@ __한양대학교 전자통신컴퓨터공학 학사__
   - 하드웨어 자원 제한(전력, 처리능력)된 경우 모델 추론을 조절하는 동적 신경망 구현
   - YOLO26 기반 Dynamic Neural Network (Early Exit, Adaptive Routing) 적용 연구 진행 
   - <img src="./img/yolo26s_early_exit_only.png" width="300"> <img src="./img/yolo26s_router_only.png" width="300">
-  - __["Input-Adaptive Dynamic Neural Network for Efficient Object Detection Toward Resource-Constrained Deployment"]([https://www.mdpi.com/1424-8220/25/4/1227](https://www.mdpi.com/2079-9292/15/11/2310))__
+  - __["Input-Adaptive Dynamic Neural Network for Efficient Object Detection Toward Resource-Constrained Deployment"](https://www.mdpi.com/2079-9292/15/11/2310)__
 
 - #### BOP (Benchmark for 6D Object Pose Estimation) : 2025 ~ 진행 중
   - HOPE (NVIDIA Household Objects for Pose Estimation) Dataset에 대한 6D-Pose + Object Size + ID 추정을 위한 모델 개발 (Tensorflow & Torch, from scratch)

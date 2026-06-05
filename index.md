@@ -58,6 +58,20 @@ __한양대학교 전자통신컴퓨터공학 학사__
 ## <u>Projects</u>
 
 ### 2026
+- #### Embedded-AI/Edge-AI 를 위한 모델 경량화 설계 연구 : 2026 ~ 진행 중
+  - 모델 추론 능력을 최대한 유지하면서 레이어 단위로 경량화하여 추론 시간을 단축하는 설계 구현
+  - YOLO Detector 모델에서, YOLO8 계열은 약 Params 50% 감소 및 latency 50% 감소하였고, YOLO11/26 계열은 Params 20% 및 latency 20% 감소
+  - Qwen 3.5-4B 모델에서, 약 Params 30% 감소 및 추론 속도 27% 향상 (진행 중)
+  - SmolVLA 모델에서,  약 Params 25% 감소 및 latency 60% 감소 (진행 중)
+  - GR00T N1.7-3B 모델에서, 약 Params 12% 감소 및 latency 36% 감소 (진행 중)
+  - <img src="./img/yolo_prune.png" width="250"> <img src="./img/qwen3.5_prune.png" width="250"> <img src="./img/SmolVLA_prune.png" width="250"> <img src="./img/gr00t_prune.png" width="250">
+
+- #### Embedded-AI/Edge-AI 를 위한 자원 제한된 하드웨어 적응형 동적 신경망 설계 연구 
+  - 하드웨어 자원 제한(전력, 처리능력)된 경우 모델 추론을 조절하는 동적 신경망 구현
+  - YOLO26 기반 Dynamic Neural Network (Early Exit, Adaptive Routing) 적용 연구 진행 
+  - <img src="./img/yolo26s_early_exit_only.png" width="300"> <img src="./img/yolo26s_router_only.png" width="300">
+  - __["Input-Adaptive Dynamic Neural Network for Efficient Object Detection Toward Resource-Constrained Deployment"]([https://www.mdpi.com/1424-8220/25/4/1227](https://www.mdpi.com/2079-9292/15/11/2310))__
+
 - #### BOP (Benchmark for 6D Object Pose Estimation) : 2025 ~ 진행 중
   - HOPE (NVIDIA Household Objects for Pose Estimation) Dataset에 대한 6D-Pose + Object Size + ID 추정을 위한 모델 개발 (Tensorflow & Torch, from scratch)
   - Encoder-only Transformer (MoE는 layer 별 가변 experts) 설계 적용
@@ -78,18 +92,6 @@ Vision Encoder and a Variable Mixture-of-Experts Transformer"](https://www.mdpi.
 - #### Local Model Fine-tuning : 2026 ~ 진행 중
   - 여러 Local Model의 추론 실행 속도 향상과 특정 도메인이 주어졌을 때의 최적화를 목표로 함
   - Model에 대한 Multi-Modal Encoder Hub, Backbone layers에 대한 동적 라우팅과 PEFT (FFN or MoE), Custom Head 에 대한 시험 진행 
-
-- #### Embedded-AI/Edge-AI 를 위한 자원 제한된 하드웨어 적응형 동적 신경망 설계 연구 : 2026 ~ 진행 중
-  - 하드웨어 자원 제한(전력, 처리능력)된 경우 모델 추론을 조절하는 동적 신경망 구현
-  - YOLO26 기반 Dynamic Neural Network (Early Exit, Adaptive Routing) 적용 연구 진행 (5월 중 논문 제출 예정)
-  - YOLO26 Detector (Small) 모델에서, GFLOPs를 17.32% 감소(mAP 능력은 baseline 대비 101% 유지)
-  - 경량 LLM(Nenotron, Gemma4)에 대한 적용 구현도 진행 중
-  - <img src="./img/yolo26s_early_exit_only.png" width="300"> <img src="./img/yolo26s_router_only.png" width="300"> 
-
-- #### Embedded-AI/Edge-AI 를 위한 모델 경량화 설계 연구 : 2026 ~ 진행 중
-  - 모델 추론 능력을 최대한 유지하면서 레이어 단위로 경량화하여 추론 시간을 단축하는 설계 구현
-  - YOLO26 Detector (Large) 모델에서, GFLOPs를 78.26% 감소(mAP는 baseline 대비 80% 유지)
-  - 학습 자원 제한으로 현재 YOLO26 Detector 에 대한 구현 진행 중이며, 이후 경량 LLM(Gemma4, Qwen3.5, Nenotron3 Nano)으로 적용 범위 확대
 
 ### 2025
 - #### Dishware Pose Estimation : 2024 ~ 2025

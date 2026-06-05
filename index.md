@@ -64,7 +64,8 @@ __한양대학교 전자통신컴퓨터공학 학사__
   - Qwen 3.5-4B 모델에서, 약 Params 30% 감소 및 추론 속도 27% 향상 (진행 중)
   - SmolVLA 모델에서,  약 Params 25% 감소 및 latency 60% 감소 (진행 중)
   - GR00T N1.7-3B 모델에서, 약 Params 12% 감소 및 latency 36% 감소 (진행 중)
-  - <img src="./img/yolo_prune.png" width="250"> <img src="./img/qwen3.5_prune.png" width="250"> <img src="./img/SmolVLA_prune.png" width="250"> <img src="./img/gr00t_prune.png" width="250">
+  - <img src="./img/yolo_prune.png" width="300"> <img src="./img/qwen3.5_prune.png" width="300">
+  - <img src="./img/SmolVLA_prune.png" width="300"> <img src="./img/gr00t_prune.png" width="300">
 
 - #### Embedded-AI/Edge-AI 를 위한 자원 제한된 하드웨어 적응형 동적 신경망 설계 연구 
   - 하드웨어 자원 제한(전력, 처리능력)된 경우 모델 추론을 조절하는 동적 신경망 구현

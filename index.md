@@ -15,7 +15,7 @@ Robot Software System Integration & AI Developer
 
 ## <b><u>Profile</u></b>
 
-안녕하세요! 저는 소프트웨어 시스템 통합과, 로봇 인지와 행동 추론 등 다양한 분야에 대한 AI 모델을 만들고 있습니다. 
+안녕하세요! 저는 소프트웨어 시스템 통합과, 로봇 인지와 행동 추론 등 다양한 분야에 대한 AI 모델을 만들고 경량화 하고 있습니다. 
 
 ## <u>Skills</u>
 
@@ -61,11 +61,19 @@ __한양대학교 전자통신컴퓨터공학 학사__
 - #### Embedded-AI/Edge-AI 를 위한 모델 경량화 설계 연구 : 2026 ~ 진행 중
   - 모델 추론 능력을 최대한 유지하면서 레이어 단위로 경량화하여 추론 시간을 단축하는 설계 구현
   - YOLO Detector 모델에서, YOLO8 계열은 약 Params 50% 감소 및 latency 50% 감소하였고, YOLO11/26 계열은 Params 20% 및 latency 20% 감소
-  - Qwen 3.5-4B 모델에서, 약 Params 30% 감소 및 추론 속도 27% 향상 (진행 중)
-  - SmolVLA 모델에서,  약 Params 25% 감소 및 latency 60% 감소 (진행 중)
-  - GR00T N1.7-3B 모델에서, 약 Params 12% 감소 및 latency 36% 감소 (진행 중)
-  - <img src="./img/yolo_prune.png" width="500"> <img src="./img/qwen3.5_prune.png" width="500">
-  - <img src="./img/SmolVLA_prune.png" width="500"> <img src="./img/gr00t_prune.png" width="500">
+    
+  - Qwen 3.5-4B 모델에서, Params 29.27% 감소, Peak Memory 29.15% 감소 및 추론 속도 22.81% 향상 / MCQ, MMLU-Pro, Global-MMLU, SuperGPQA 모두 유지 또는 향상
+  - <img src="./img/qwen35_4b_matrix.png" width="600"> <img src="./img/qwen35_4b_barchart.png" width="400">
+    
+  - SmolVLA 모델에서, Params 16% 감소, Memory 16% 감소 및 latency 89% 감소 / LIBERO 성공률 약 10% 감소 (DGX Spark)
+  - <img src="./img/pruning_sk_smolvla_01.png" width="500"> <img src="./img/pruning_sk_smolvla_02.png" width="500">
+  
+  - GR00T N1.7-3B 모델에서, Params 49% 감소, Memory 49% 감소 및 latency 49% 감소 / LIBERO 성공률 약 19% 감소 (RTX 6000 Balckwell)
+  - <img src="./img/groot_pruning_01.png" width="350"> <img src="./img/groot_pruning_02.png" width="350"> <img src="./img/groot_pruning_03.png" width="350">
+
+  - PiZero 0.5 모델에서, Params 11.2% 감소 및 latency 59.4% 감소 / LIBERO 성공률 약 4.3% 감소 (RTX 6000 Blackwell)
+  - <img src="./img/pizero_pruning_01.png" width="500"> <img src="./img/pizero_pruning_02.png" width="500">
+
 
 - #### Embedded-AI/Edge-AI 를 위한 자원 제한된 하드웨어 적응형 동적 신경망 설계 연구 
   - 하드웨어 자원 제한(전력, 처리능력)된 경우 모델 추론을 조절하는 동적 신경망 구현

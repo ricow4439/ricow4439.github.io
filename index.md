@@ -63,7 +63,7 @@ __한양대학교 전자통신컴퓨터공학 학사__
   - YOLO Detector 모델에서, YOLO8 계열은 약 Params 50% 감소 및 latency 50% 감소하였고, YOLO11/26 계열은 Params 20% 및 latency 20% 감소
     
   - Qwen 3.5-4B 모델에서, Params 29.27% 감소, Peak Memory 29.15% 감소 및 추론 속도 22.81% 향상 / MCQ, MMLU-Pro, Global-MMLU, SuperGPQA 모두 유지 또는 향상
-  - <img src="./img/qwen35_4b_matrix.png" width="600"> <img src="./img/qwen35_4b_barchart.png" width="400">
+  - <img src="./img/qwen35_4b_matrix.png" width="800"> <img src="./img/qwen35_4b_barchart.png" width="800">
     
   - SmolVLA 모델에서, Params 16% 감소, Memory 16% 감소 및 latency 89% 감소 / LIBERO 성공률 약 10% 감소 (DGX Spark)
   - <img src="./img/pruning_sk_smolvla_01.png" width="500"> <img src="./img/pruning_sk_smolvla_02.png" width="500">

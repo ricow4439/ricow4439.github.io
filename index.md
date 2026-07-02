@@ -62,16 +62,16 @@ __한양대학교 전자통신컴퓨터공학 학사__
   - 모델 추론 능력을 최대한 유지하면서 레이어 단위로 경량화하여 추론 시간을 단축하는 설계 구현
   - YOLO Detector 모델에서, YOLO8 계열은 약 Params 50% 감소 및 latency 50% 감소하였고, YOLO11/26 계열은 Params 20% 및 latency 20% 감소
     
-  - Qwen 3.5-4B 모델에서, Params 29.27% 감소, Peak Memory 29.15% 감소 및 추론 속도 22.81% 향상 / MCQ, MMLU-Pro, Global-MMLU, SuperGPQA 모두 유지 또는 향상
+  - Qwen 3.5-4B 모델에서, Params **-29.27%**, Peak Memory **-29.15%**, 추론 속도 **+22.81%** / MCQ, MMLU-Pro, Global-MMLU, SuperGPQA 모두 유지 또는 향상
   - <img src="./img/qwen35_4b_matrix.png" width="800"> <img src="./img/qwen35_4b_barchart.png" width="800">
     
-  - SmolVLA 모델에서, Params 16% 감소, Memory 16% 감소 및 latency 89% 감소 / LIBERO 성공률 약 10% 감소 (DGX Spark)
+  - SmolVLA 모델에서, Params **-16%**, Memory **-16%**, latency **-89%** / LIBERO 성공률 약 **-10%** (DGX Spark)
   - <img src="./img/pruning_sk_smolvla_01.png" width="500"> <img src="./img/pruning_sk_smolvla_02.png" width="500">
   
-  - GR00T N1.7-3B 모델에서, Params 49% 감소, Memory 49% 감소 및 latency 49% 감소 / LIBERO 성공률 약 19% 감소 (RTX 6000 Balckwell)
+  - GR00T N1.7-3B 모델에서, Params **-49%**, Memory **-49%**, latency **-49%** / LIBERO 성공률 약 **-19%** (RTX 6000 Balckwell)
   - <img src="./img/groot_pruning_01.png" width="500"> <img src="./img/groot_pruning_02.png" width="500"> <img src="./img/groot_pruning_03.png" width="500">
 
-  - PiZero 0.5 모델에서, Params 11.2% 감소 및 latency 59.4% 감소 / LIBERO 성공률 약 4.3% 감소 (RTX 6000 Blackwell)
+  - PiZero 0.5 모델에서, Params **-11.2%**, latency **-59.4%** / LIBERO 성공률 약 **-4.3%** (RTX 6000 Blackwell)
   - <img src="./img/pizero_pruning_01.png" width="500"> <img src="./img/pizero_pruning_02.png" width="500">
 
 

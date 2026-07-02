@@ -66,7 +66,7 @@ __한양대학교 전자통신컴퓨터공학 학사__
   - <img src="./img/qwen35_4b_matrix.png" width="800"> <img src="./img/qwen35_4b_barchart.png" width="800">
     
   - SmolVLA 모델에서, Params **-16%**, Memory **-16%**, latency **-89%** / LIBERO 성공률 약 **-10%** (DGX Spark)
-  - <img src="./img/pruning_sk_smolvla_01.png" width="500"> <img src="./img/pruning_sk_smolvla_02.png" width="500">
+  - <img src="./img/pruning_sk_smolvla_01.png" width="500"> <img src="./img/pruning_sk_smolvla_03.png" width="500">
   
   - GR00T N1.7-3B 모델에서, Params **-49%**, Memory **-49%**, latency **-49%** / LIBERO 성공률 약 **-19%** (RTX 6000 Balckwell)
   - <img src="./img/groot_pruning_01.png" width="500"> <img src="./img/groot_pruning_02.png" width="500"> <img src="./img/groot_pruning_03.png" width="500">

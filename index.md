@@ -60,7 +60,8 @@ __한양대학교 전자통신컴퓨터공학 학사__
 ### 2026
 - #### Embedded-AI/Edge-AI 를 위한 모델 경량화 설계 연구 : 2026 ~ 진행 중
   - 모델 추론 능력을 최대한 유지하면서 레이어 단위로 경량화하여 추론 시간을 단축하는 설계 구현
-  - YOLO Detector 모델에서, YOLO8 계열은 약 Params 50% 감소 및 latency 50% 감소하였고, YOLO11/26 계열은 Params 20% 및 latency 20% 감소
+  - YOLO Detector 모델에서, YOLO8 계열은 약 Params **-50%**, latency **-50%**, YOLO11/26 계열은 Params **-20%**, latency **-20%**
+  - Meta SAM3 모델에서, Params **-53%**, GFLOPs **-55.1%**, latency **-50.0%** 
     
   - Qwen 3.5-4B 모델에서, Params **-29.27%**, Peak Memory **-29.15%**, 추론 속도 **+22.81%** / MCQ, MMLU-Pro, Global-MMLU, SuperGPQA 모두 유지 또는 향상
   - <img src="./img/qwen35_4b_matrix.png" width="800"> <img src="./img/qwen35_4b_barchart.png" width="800">

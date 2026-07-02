@@ -69,7 +69,7 @@ __한양대학교 전자통신컴퓨터공학 학사__
   - <img src="./img/pruning_sk_smolvla_01.png" width="500"> <img src="./img/pruning_sk_smolvla_02.png" width="500">
   
   - GR00T N1.7-3B 모델에서, Params 49% 감소, Memory 49% 감소 및 latency 49% 감소 / LIBERO 성공률 약 19% 감소 (RTX 6000 Balckwell)
-  - <img src="./img/groot_pruning_01.png" width="350"> <img src="./img/groot_pruning_02.png" width="350"> <img src="./img/groot_pruning_03.png" width="350">
+  - <img src="./img/groot_pruning_01.png" width="500"> <img src="./img/groot_pruning_02.png" width="500"> <img src="./img/groot_pruning_03.png" width="500">
 
   - PiZero 0.5 모델에서, Params 11.2% 감소 및 latency 59.4% 감소 / LIBERO 성공률 약 4.3% 감소 (RTX 6000 Blackwell)
   - <img src="./img/pizero_pruning_01.png" width="500"> <img src="./img/pizero_pruning_02.png" width="500">
